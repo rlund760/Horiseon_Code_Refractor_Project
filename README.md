@@ -18,3 +18,5 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 
+<img src="Images/Screenshot(12).png" alt="Screenshot 1">
+<img src="Images/Screenshot(13).png" alt="Screenshot 2">
